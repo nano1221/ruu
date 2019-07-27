@@ -111,7 +111,6 @@ img::-moz-selection {
 	font-size: 12px;
 	right: 0;
 	padding: 13px;
-	text-transform: uppercase;
 	color: #fff;
 	border: 0;
 	background-color: #009944;
@@ -611,7 +610,7 @@ section#contact .form-group textarea.form-control {
 }
 
 section#contact .form-control:focus {
-	border-color: #fed136;
+	border-color: #00561F;
 	-webkit-box-shadow: none;
 	box-shadow: none
 }
@@ -679,5 +678,5 @@ ul.social-buttons li a {
 }
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-	background-color: #fed136
+	background-color: #00561F
 }
